@@ -5,6 +5,7 @@ test_check("sqlr.mindfulness")
 
 # # For development use only (comment the code after use (Ctrl + Shift + C))
 #
+#
 # .rs.restartR()
 # devtools::install()
 # devtools::document()
